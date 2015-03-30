@@ -6,4 +6,8 @@ You may use a font of your liking.
 Do not change the layout or image sizes.
 
 
+1. Clone the repo:
+2. Create the website and push changes back to github.
+
+
 All the best

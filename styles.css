@@ -1,11 +1,23 @@
+
+  
+#containerbody{
+
+	background-color:#F3F2ED ;
+	/*background-color: red;*/
+	margin: 20px auto;
+
+}
+
 #firstcol{
 	background-color: #343539;
 }
 
 #firstcol p{
+
 	
 	padding-top: 35px;
 	color: #8B8B8C;
+	padding-right: 50px;
 
 }
 #firstcol h1{
@@ -14,10 +26,61 @@
 }
 
 #secondcol{
-	/*border: 2px solid black;
-	height:400px;
+	background: url("assets/big_img.jpg");
+	height: 500px;
 	background-size: cover;
-	background-image: url("https://raw.githubusercontent.com/moringaschool/Self_Assessments/master/Assessment1/assets/big_img.jpg?token=AGV8msI2gFHDOnhfZbQZh-w4LAASrIoYks5VIjpXwA%3D%3D");*/
+	margin: 20px auto;
+    
+}
+hr{
+	/* display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto*/;
+    border-style: inset;
+    border-width: 1px;
+    width: 305px;
+    margin-left: 7px;
+}
+#thirdcol
+{
+	margin: 20px;
+	background-color: #FFFFFF;
+	width: 100%;
 }
 
+.btn{
+	background-color: black;
+	font: white;
+	height: 50px;
+	width: 150px;
+	border-radius: 15px;
+	;
+}
 
+#thirdcol
+{
+	margin: 20px auto;
+}
+
+#forthcol
+{
+	margin: 20px auto;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+#forthcol img
+{
+	margin: 20px auto;
+	
+}
+#fifthcol{
+	margin: 20px auto;
+	text-align: justify;
+	background-color: #FFFFFF;
+}
+#fifthcol img{
+	width: 500px;
+}

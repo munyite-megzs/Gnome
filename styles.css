@@ -80,7 +80,56 @@ hr{
 	margin: 20px auto;
 	text-align: justify;
 	background-color: #FFFFFF;
+	padding: 0 50px
 }
 #fifthcol img{
 	width: 500px;
 }
+
+
+#titlegoes{
+
+	margin: 50px auto;
+	position: relative;
+	left: 20px;
+
+}#fifthcol{
+	margin: 20px auto;
+	text-align: justify;
+	background-color: #FFFFFF;
+	padding: 0 50px
+}
+
+#seventhcol{
+	margin: 20px auto;
+	text-align: center;
+	padding: 30px;
+	height: 120px;
+
+	
+	
+	
+}
+
+#eiththcol{
+
+	margin: 20px auto;
+}
+
+#linkone{
+
+	text-align: center;
+}
+/*
+.main-nav{
+float: left;
+	
+
+	}
+
+	.main-nav li{
+	display: inline;
+	padding: 0;
+}*/
+
+
